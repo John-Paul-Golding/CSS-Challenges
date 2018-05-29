@@ -1,0 +1,22 @@
+/*Adding a font using css*/
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody');
+
+body{
+  background-color: black;
+}
+
+.para_one{
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  color: purple;
+  padding: 50px;
+  font-style: oblique;
+}
+
+.para_two{
+  font-family: 'Hi Melody', cursive;
+  font-size: 40px;
+  color: blue;
+  padding: 50px;
+  font-style: normal;
+}

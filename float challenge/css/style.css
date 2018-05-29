@@ -1,0 +1,90 @@
+.conatainer{
+
+}
+
+body{
+  background-color: white;
+}
+
+.box1{
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-left: 5%;
+}
+
+.box2{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-left: 5%;
+}
+.box3{
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 5%;
+}
+
+.box4{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 5%;
+}
+
+/*Adding hover effects for changing background colors*/
+.box1:hover{
+  text-decoration: none;
+  color:blue;
+  background-color: yellow;
+}
+
+.box2:hover{
+  text-decoration: none;
+  color:blue;
+  background-color: black;
+}
+
+.box3:hover{
+  text-decoration: none;
+  color:blue;
+  background-color: purple;
+}
+
+.box4:hover{
+  text-decoration: none;
+  color:blue;
+  background-color: red;
+}
+
+/*hover active*/
+
+.box1:active{
+  background-color: purple;
+}
+
+.box2:active{
+  background-color: red;
+}
+
+.box3:active{
+  background-color: yellow;
+}
+
+.box4:active{
+  background-color: black;
+}
+
+/*Changing the width of the box 3 and 4*/
+.box3:hover{
+  width: 600px;
+}
+
+.box4:hover{
+  width: 50px;
+}

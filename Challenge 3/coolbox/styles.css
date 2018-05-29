@@ -1,0 +1,32 @@
+/* General setup */
+/* Remember to always comment*/
+/*Adding my own font*/
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+
+* {
+  box-sizing: border-box;
+  }
+
+
+body {
+  margin: 0;
+  background-color: white;
+}
+
+/* Write your CSS below here */
+
+.box{
+  background-color: red;
+  border-radius:0;
+  border-spacing: 10% ;
+  border-style: solid;
+  border-color: blue;
+  border-width: thick;
+  box-sizing:border-box;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  width: 12%;
+  height: 20%;
+  margin-left: 10%;
+  box-sizing: border-box;
+}

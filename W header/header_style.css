@@ -1,0 +1,25 @@
+body{
+  margin: 0px;
+}
+
+
+.header{
+        text-align: center;
+        background-color: maroon;
+        width: 100%;
+        height: 350px;
+        font-size: 20px;
+        margin: 0px;
+        padding: 10px 0px;
+}
+
+.header ul{
+          list-style: none;
+          list-style-type: none;
+}
+
+.header li{
+          display: inline-block;
+          padding-left: 40px;
+          color: white;
+}

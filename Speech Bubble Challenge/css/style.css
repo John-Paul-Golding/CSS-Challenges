@@ -1,0 +1,26 @@
+#speech-bubble{
+  position: relative;
+	background: #00aabb;
+	border-radius: 10px;
+  width: 100px;
+  padding: 50px 10px;
+  margin: 0;
+  margin-left: 5%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 200%;
+}
+
+.arrow{
+    position: absolute;
+  	left: 0;
+  	top: 50%;
+  	width: 0;
+  	height: 0;
+  	border: 20px solid transparent;
+  	border-right-color: #00aabb;
+  	border-left: 0;
+  	margin-top: -43px;
+  	margin-left: -13px;
+    float:right;
+}

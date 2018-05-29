@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+@import url('https://fonts.googleapis.com/css?family=Gaegu');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody|IBM+Plex+Sans|Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Anton|IBM+Plex+Sans|Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Anton|IBM+Plex+Sans|Lobster|Playfair+Display');
+
+/*styling my heading*/
+.h1{
+  text-align: center;
+  color: yellow;
+}
+
+/*styling my body gou*/
+body{
+  background-color: Black;
+    color: green;
+}
+
+#text_1{
+font-family: 'Gugi', cursive;
+}
+
+#text_2{
+font-family: 'Gaegu', cursive;
+font-size: 18px;
+color: yellow;
+}
+
+#text_3{
+font-family: 'IBM Plex Sans', sans-serif;
+color: white;
+}
+
+#text_4{
+  font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+color: grey;
+}
+
+#text_5{
+  font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Hi Melody', cursive;
+font-size: 22px;
+color: yellow;
+}
+
+.h2{
+  text-align: left;
+  color: yellow;
+}
+
+#text_6{
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Anton', sans-serif;
+  color: orange;
+}
+
+#text_7{
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Anton', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-size: 18px;
+}
